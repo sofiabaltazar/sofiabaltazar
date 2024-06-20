@@ -3,7 +3,7 @@
 
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 I’m currently working on ...
+- 🔭 I’m interested in a dynamic work professional environment with a growing organization and utilize my creativity and innovative thinking for benefit of the organization and myself.
 
 <h3>🛠 Tech Stack</h3>
 
