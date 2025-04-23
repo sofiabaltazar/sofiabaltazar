@@ -9,7 +9,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Sumbline Text 3
+- 🔧 &nbsp; Visual Studio code | Sumbline Text 3 | GoHighLevel
 - 🖥 &nbsp; Illustrator | Photoshop 
 
 <h3> 🤝🏻 Connect with Me </h3>
