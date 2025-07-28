@@ -22,6 +22,29 @@
   <li>🧩 &nbsp; ClickUp | Trello | Notion | Figma</li>
 </ul>
 
+<h3>💡 Hard Skills</h3>
+
+<ul>
+  <li>CRM Setup & Automation: GoHighLevel, Pabbly</li>
+  <li>Backend Development: PHP, MySQL</li>
+  <li>Frontend Development: HTML, CSS, JavaScript</li>
+  <li>QA Testing & Troubleshooting</li>
+  <li>SOP Documentation & Process Optimization</li>
+  <li>Academic Research & Writing</li>
+  <li>Graphic Design: Adobe Illustrator, Photoshop, Canva</li>
+</ul>
+
+<h3>🤝 Soft Skills</h3>
+
+<ul>
+  <li>Communication</li>
+  <li>Team Collaboration</li>
+  <li>Critical Thinking</li>
+  <li>Time Management</li>
+  <li>Problem Solving</li>
+  <li>Visual Storytelling</li>
+</ul>
+
 <h3>🤝🏻 Connect with Me</h3>
 
 <ul>
