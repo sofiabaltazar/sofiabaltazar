@@ -1,53 +1,58 @@
-<h2> Hi there 👋 </h2>
+<h2>Hi there 👋</h2>
 
-<h3> 👩🏻‍💻 About Me </h3>
+<h3>👩🏻‍💻 About Me</h3>
 <p>
-  I’m Sofia Angela B. Baltazar — a results-driven and multi-skilled professional with hands-on experience in CRM platforms, front-end and back-end web development, academic support, and graphic design. I’m passionate about solving technical problems, streamlining workflows, and creating visually engaging content that aligns with brand goals. I'm currently seeking opportunities in dynamic and growth-driven environments where I can contribute my skills in technology and design.
+  I’m <strong>Sofia Angela B. Baltazar</strong>, a results-driven and multi-disciplinary professional with practical experience in CRM systems, full-stack web development, academic support, and visual design. I bring a strong background in solving technical challenges, optimizing processes, and delivering user-centric solutions across dynamic work environments.
+  <br><br>
+  With expertise in platforms like GoHighLevel, Pabbly, and WordPress, I help streamline business operations and enhance user experience. I'm passionate about continuous learning, innovation, and using technology to create impactful, accessible, and intuitive digital experiences.
 </p>
 
-<h3>🛠 Tech Stack</h3>
-
+<h3>🛠 Technical Stack</h3>
 <ul>
-  <li>🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap</li>
-  <li>🛢 &nbsp; MySQL | XAMPP</li>
-  <li>🧠 &nbsp; GoHighLevel | Pabbly | Zapier | WordPress</li>
-  <li>🔧 &nbsp; Visual Studio Code | Sublime Text | Git</li>
-  <li>🎨 &nbsp; Adobe Illustrator | Adobe Photoshop | Canva</li>
+  <li>🌐 Front-End: HTML, CSS, JavaScript, Bootstrap</li>
+  <li>🛢 Back-End: PHP, MySQL, XAMPP</li>
+  <li>🧠 CRM & Automation: GoHighLevel, Pabbly, Zapier</li>
+  <li>🧩 CMS: WordPress (theme customization, plugin development)</li>
+  <li>🎨 Design Tools: Adobe Illustrator, Photoshop, Canva</li>
+  <li>🛠 Development Tools: Visual Studio Code, Sublime Text, Git</li>
 </ul>
 
-<h3>📌 Tools & Platforms</h3>
-
+<h3>💻 Tools & Platforms</h3>
 <ul>
-  <li>💼 &nbsp; Microsoft Office | Google Workspace</li>
-  <li>🧩 &nbsp; ClickUp | Trello | Notion | Figma</li>
+  <li>📁 Project Management: Trello, ClickUp, Notion</li>
+  <li>🌐 Collaboration & Productivity: Google Workspace, Microsoft Office</li>
+  <li>🎨 Prototyping & Design: Figma</li>
 </ul>
 
-<h3>💡 Hard Skills</h3>
-
+<h3>💼 Hard Skills</h3>
 <ul>
-  <li>CRM Setup & Automation: GoHighLevel, Pabbly</li>
-  <li>Backend Development: PHP, MySQL</li>
-  <li>Frontend Development: HTML, CSS, JavaScript</li>
+  <li>CRM Configuration & Workflow Automation (GoHighLevel, Pabbly)</li>
+  <li>Web Development (HTML, CSS, JavaScript, PHP, MySQL)</li>
+  <li>WordPress Development & Optimization</li>
   <li>QA Testing & Troubleshooting</li>
-  <li>SOP Documentation & Process Optimization</li>
-  <li>Academic Research & Writing</li>
-  <li>Graphic Design: Adobe Illustrator, Photoshop, Canva</li>
+  <li>Process Documentation & SOP Optimization</li>
+  <li>Academic Research, Proofreading, and Formatting</li>
+  <li>Graphic & Visual Design (Adobe Suite, Canva)</li>
 </ul>
 
-<h3>🤝 Soft Skills</h3>
-
+<h3>🌟 Soft Skills</h3>
 <ul>
-  <li>Communication</li>
-  <li>Team Collaboration</li>
-  <li>Critical Thinking</li>
-  <li>Time Management</li>
-  <li>Problem Solving</li>
-  <li>Visual Storytelling</li>
+  <li>Effective Communication & Collaboration</li>
+  <li>Critical Thinking & Problem Solving</li>
+  <li>Time Management & Organization</li>
+  <li>Adaptability in Remote and Hybrid Work Environments</li>
+  <li>Visual Storytelling & Creative Strategy</li>
 </ul>
 
-<h3>🤝🏻 Connect with Me</h3>
+<h3>🌐 Languages</h3>
+<ul>
+  <li>English – Fluent</li>
+  <li>Filipino – Native</li>
+</ul>
 
+<h3>📫 Let’s Connect</h3>
 <ul>
   <li>📧 Email: <a href="mailto:sofiabaltazar.working@gmail.com">sofiabaltazar.working@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sofia-baltazar-working" target="_blank">sofia-baltazar-working</a></li>
+  <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sofia-baltazar-working" target="_blank">linkedin.com/in/sofia-baltazar-working</a></li>
+  <li>📘 Facebook Page: <em>[Insert Facebook page link or name here]</em></li>
 </ul>
