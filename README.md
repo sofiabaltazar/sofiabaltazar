@@ -54,5 +54,5 @@
 <ul>
   <li>📧 Email: <a href="mailto:sofiabaltazar.working@gmail.com">sofiabaltazar.working@gmail.com</a></li>
   <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sofia-baltazar-working" target="_blank">linkedin.com/in/sofia-baltazar-working</a></li>
-  <li>📘 Facebook Page: <em>[Insert Facebook page link or name here]</em></li>
+  <li>🔗 Portfolio: <a href="https://iamsofiaangela.github.io/" target="_blank">https://iamsofiaangela.github.io/</a></li>
 </ul>
