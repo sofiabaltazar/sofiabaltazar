@@ -1,58 +1,76 @@
-<h2>Hi there 👋</h2>
+Hi there 👋
 
-<h3>👩🏻‍💻 About Me</h3>
-<p>
-  I’m <strong>Sofia Angela B. Baltazar</strong>, a results-driven and multi-disciplinary professional with practical experience in CRM systems, full-stack web development, academic support, and visual design. I bring a strong background in solving technical challenges, optimizing processes, and delivering user-centric solutions across dynamic work environments.
-  <br><br>
-  With expertise in platforms like GoHighLevel, Pabbly, and WordPress, I help streamline business operations and enhance user experience. I'm passionate about continuous learning, innovation, and using technology to create impactful, accessible, and intuitive digital experiences.
-</p>
+# 👩🏻‍💻 Sofia Baltazar
 
-<h3>🛠 Technical Stack</h3>
-<ul>
-  <li>🌐 Front-End: HTML, CSS, JavaScript, Bootstrap</li>
-  <li>🛢 Back-End: PHP, MySQL, XAMPP</li>
-  <li>🧠 CRM & Automation: GoHighLevel, Pabbly, Zapier</li>
-  <li>🧩 CMS: WordPress (theme customization, plugin development)</li>
-  <li>🎨 Design Tools: Adobe Illustrator, Photoshop, Canva</li>
-  <li>🛠 Development Tools: Visual Studio Code, Sublime Text, Git</li>
-</ul>
+Creative Technologist • Systems & Project Specialist  
+Building web systems, funnels, and automation workflows that help businesses generate leads, streamline operations, and scale efficiently.
 
-<h3>💻 Tools & Platforms</h3>
-<ul>
-  <li>📁 Project Management: Trello, ClickUp, Notion</li>
-  <li>🌐 Collaboration & Productivity: Google Workspace, Microsoft Office</li>
-  <li>🎨 Prototyping & Design: Figma</li>
-</ul>
+---
 
-<h3>💼 Hard Skills</h3>
-<ul>
-  <li>CRM Configuration & Workflow Automation (GoHighLevel, Pabbly)</li>
-  <li>Web Development (HTML, CSS, JavaScript, PHP, MySQL)</li>
-  <li>WordPress Development & Optimization</li>
-  <li>QA Testing & Troubleshooting</li>
-  <li>Process Documentation & SOP Optimization</li>
-  <li>Academic Research, Proofreading, and Formatting</li>
-  <li>Graphic & Visual Design (Adobe Suite, Canva)</li>
-</ul>
+## 🧠 About Me
 
-<h3>🌟 Soft Skills</h3>
-<ul>
-  <li>Effective Communication & Collaboration</li>
-  <li>Critical Thinking & Problem Solving</li>
-  <li>Time Management & Organization</li>
-  <li>Adaptability in Remote and Hybrid Work Environments</li>
-  <li>Visual Storytelling & Creative Strategy</li>
-</ul>
+I design and develop structured digital systems that combine web development, CRM automation, and operational workflows into scalable business solutions.
 
-<h3>🌐 Languages</h3>
-<ul>
-  <li>English – Fluent</li>
-  <li>Filipino – Native</li>
-</ul>
+My focus is not just building websites or tools — but creating **connected systems** that improve efficiency, automate processes, and support real business growth.
 
-<h3>📫 Let’s Connect</h3>
-<ul>
-  <li>📧 Email: <a href="mailto:sofiabaltazar.working@gmail.com">sofiabaltazar.working@gmail.com</a></li>
-  <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sofia-baltazar-working" target="_blank">linkedin.com/in/sofia-baltazar-working</a></li>
-  <li>🔗 Portfolio: <a href="https://sofiabaltazar.github.io/" target="_blank">https://sofiabaltazar.github.io/</a></li>
-</ul>
+I work across web development, funnel systems, CRM integration, and workflow automation, with a strong focus on clarity, structure, and performance.
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Web Development
+HTML • CSS • JavaScript • PHP • Tailwind CSS • MySQL
+
+### ⚙️ CRM & Automation
+GoHighLevel • HubSpot • Pabbly • Zapier
+
+### 🧩 CMS & Platforms
+WordPress (theme customization, optimization)
+
+### 🎨 UI/UX & Design
+Figma • Adobe Photoshop • Adobe Illustrator • Canva
+
+---
+
+## 🧠 Systems & Productivity Tools
+Notion • Airtable • ClickUp • Trello • Google Workspace • Microsoft Office
+
+---
+
+## 💼 Core Expertise
+
+- Web Development & Funnel Systems  
+- CRM Setup & Workflow Automation  
+- Business Process Structuring  
+- UI/UX Design for Functional Systems  
+- WordPress Development & Optimization  
+- QA Testing & Debugging  
+- Documentation & SOP Structuring  
+
+---
+
+## 🌟 Working Style
+
+- Systems-first thinking  
+- Clean and structured development approach  
+- Focus on usability and scalability  
+- Problem-solving through automation  
+- Strong attention to workflow efficiency  
+
+---
+
+## 🌐 Languages
+
+- English — Fluent  
+- Filipino — Native  
+
+---
+
+## 📬 Let’s Connect
+
+📧 Email: sofiabaltazar.working@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sofia-baltazar-working/  
+🔗 Portfolio: https://sofiabaltazar.github.io/  
+🔗 Instagram: https://www.instagram.com/sofiabaltazar.working  
+🔗 Upwork: https://www.upwork.com/freelancers/~01c5d591316f0e51ca  
